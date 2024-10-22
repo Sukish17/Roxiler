@@ -1,0 +1,23 @@
+.image1{
+    height: 60px;
+    width: 90px;
+  }
+  
+  .hh1{
+    font-family: 'Robato';
+    border: 1px solid #0b0a0a;
+    letter-spacing: 1px;
+  }
+  .hh2{
+    text-align: center;
+    border-right: 1px solid#fff;
+  }
+  .aapp{
+    height: 100%;
+    margin-bottom: 100px;
+  }
+  .head2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+  }

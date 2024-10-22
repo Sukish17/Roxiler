@@ -1,0 +1,11 @@
+.ch1{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+.ch2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

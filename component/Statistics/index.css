@@ -1,0 +1,20 @@
+.all-products-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+    margin-bottom: 100px;
+  }
+.jan{
+  color: #300202;
+  font-family: "Robato";
+  font-size: 20px;
+}
+.st1{
+  border: 2px solid black;
+  height: 300px;
+  width: 300px;
+  padding: 30px;
+}
+  
+ 
